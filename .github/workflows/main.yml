@@ -3,7 +3,7 @@ name: Build and Test
 on:
   push:
     branches:
-      - riskratinggc
+      - main
 
 env:
   PROJECT_ID: risk-rating-api # TODO: update Google Cloud project id
